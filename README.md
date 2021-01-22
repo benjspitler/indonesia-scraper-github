@@ -6,7 +6,7 @@ The source of this haze, in part, is deliberate burning to clear land area in Su
 
 Information regarding the prosecution of farmers for burning is posted on a series of websites hosted by Indonesia's judiciary; each website pertains to a different federal district of Indonesia, and lists prosecutions and court cases for that district:
 
-<img src="images/indon_search_screenshot.png?raw=true"/>
+<img src="indon_search_screenshot.png?raw=true"/>
 
 Compared to the data disclosure practices of governments in other parts of the world where I have worked (especially the Middle East), the Indonesian government's approach isn't terrible. When you navigate to a court website, you can search for a term and return an organized table that summarizes all of the search results and provides links for more detail. That said, there are still quite a few barriers here to easily extracting and processing real time data about court cases. For one thing, these results tables are not downloadable in any kind of PDF or Excel file format; they're just static HTML pages. Additionally, there's no filtering functionality, so the only way to access results is through keyword search. As a result journalists and rights activists documenting prosecutions of small farmers spend a lot of time on these websites, entering search terms, scrolling through results, and manualy entering data. I wanted to automate this process so they always have an up-to-date database showing the current state of these court cases.
 
